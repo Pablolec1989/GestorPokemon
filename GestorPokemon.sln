@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonApp", "PokemonApp\PokemonApp.csproj", "{5769DE40-DB7E-4641-A721-1EB5CCECF60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{FAC4CF86-EDC7-4C1D-9977-CA5F381CFC83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{831E6FA4-1D3C-4F67-B2A3-3D096CCA6F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5769DE40-DB7E-4641-A721-1EB5CCECF60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5769DE40-DB7E-4641-A721-1EB5CCECF60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5769DE40-DB7E-4641-A721-1EB5CCECF60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5769DE40-DB7E-4641-A721-1EB5CCECF60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC4CF86-EDC7-4C1D-9977-CA5F381CFC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC4CF86-EDC7-4C1D-9977-CA5F381CFC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC4CF86-EDC7-4C1D-9977-CA5F381CFC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC4CF86-EDC7-4C1D-9977-CA5F381CFC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831E6FA4-1D3C-4F67-B2A3-3D096CCA6F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831E6FA4-1D3C-4F67-B2A3-3D096CCA6F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831E6FA4-1D3C-4F67-B2A3-3D096CCA6F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831E6FA4-1D3C-4F67-B2A3-3D096CCA6F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D29F6F98-C530-4932-B9DC-23792008E648}
+	EndGlobalSection
+EndGlobal
